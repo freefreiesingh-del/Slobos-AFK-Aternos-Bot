@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "swordart.play.hosting",
-    "port": 25565,
+    "ip": "DevilBlackZoneSmp.aternos.me",
+    "port": 42353,
     "version": "",
     "try-creative": false
   },
